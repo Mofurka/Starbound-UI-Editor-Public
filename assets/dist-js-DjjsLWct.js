@@ -1,0 +1,1 @@
+import{r as e}from"./index-C1qZyLx8.js";async function t(){await e(`plugin:process|restart`)}export{t as relaunch};
