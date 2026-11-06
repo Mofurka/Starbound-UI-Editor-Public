@@ -1,1 +1,0 @@
-import{r as e}from"./index-CbRYJ-dL.js";async function t(){await e(`plugin:process|restart`)}export{t as relaunch};
